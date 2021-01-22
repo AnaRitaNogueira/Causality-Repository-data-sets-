@@ -22,6 +22,7 @@ The data sets presented in the following table are publicly available in several
 
 ## Data sets Available Throught Request
 
+In this section, we present several data sets that are available through resquest (for example, filling a form).
 | Paper | Data sets |Type|
 |---|---|---|
 |[Mark Mirtchouk, Drew Lustig, Alexandra Smith, Ivan Ching, Min Zheng, and Samantha Kleinberg. 2017. Recognizing Eating from Body-Worn Sensors: Combining Free-living and Laboratory Data. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 3, Article 85 (September 2017), 20 pages. DOI:https://doi.org/10.1145/3131894](https://dl.acm.org/doi/10.1145/3131894)|[ACE Free-living dataset](http://skleinberg.org/data/ACE-FL.html)<sup>[1](#myfootnot1)</sup><sup>[2](#myfootnote2)</sup><sup>[3](#myfootnote3)</sup>|Time-series data|
@@ -35,9 +36,9 @@ The data sets presented in the following table are publicly available in several
   
   
   ## Other causal discovery data sets
-  These data sets are identified in the various sources as causal discovery data sets. However
+  These data sets are identified in the various sources as causal discovery data sets. However, they are classified as causal discovery data sets in various sources.
 
- Data set |Type|Location|
+ Data set |Type|Source Location|
 |---|---|---|
 |[Abscisic Acid Signaling Network Data Set](https://github.com/AnaRitaNogueira/Causality-Repository/tree/master/Abscisic%20Acid%20Signaling%20Network%20Data%20Set)|Discrete data|[UCI Repository](https://archive.ics.uci.edu/ml/datasets/Abscisic+Acid+Signaling+Network)|
 |[Gas Sensor Array Drift Dataset at Different Concentrations Data Set](https://github.com/AnaRitaNogueira/Causality-Repository/tree/master/Gas%20Sensor%20Array%20Drift%20Dataset%20at%20Different%20Concentrations%20Data%20Set)<sup>[1](#myfootnote3.1)</sup>|Mixed data|[UCI Repository](https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset+at+Different+Concentrations)|

@@ -52,6 +52,21 @@ UbiqLog|Time-series data|[UCI Repository](https://archive.ics.uci.edu/ml/dataset
 |MARTI|Countinuous data|[Causality Workbanch](http://www.causality.inf.ethz.ch/data/MARTI.html)|
 |PROMO|Time-series data|[Causality Workbench](http://clopinet.com/causality/data/promo/)
 [Pedestrian in Traffic Dataset Data Set<sup>[2](#myfootnote3.2)</sup>|Time-series data|[UCI Repository](https://archive.ics.uci.edu/ml/datasets/Pedestrian+in+Traffic+Dataset)|
+|Dunnhumby - The Complete Journey | Time-series data | [Kaggle](https://www.kaggle.com/frtgnn/dunnhumby-the-complete-journey?select=causal_data.csv) | 
+| Figure Eight: Medical Sentence Summary | Time-series data | [Kaggle](https://www.kaggle.com/kmader/figure-eight-medical-sentence-summary?select=validation.csv) |Confused student EEG brainwave data | Continuous data | [Kaggle](https://www.kaggle.com/wanghaohan/confused-eeg?select=demographic_info.csv) |
+|CausalML Package Example Dataset | Mixed data | [Kaggle](https://www.kaggle.com/vikasmalhotra08/causalml-package-example-dataset?select=ihdp_npci_4.csv) |
+|Temperature and cherry blossom status | Time-series data | [Kaggle](https://www.kaggle.com/akioonodera/temperature-and-flower-status)|
+|Uplift Modeling , Marketing Campaign Data | Continuous data | [Kaggle](https://www.kaggle.com/arashnic/uplift-modeling)|
+|Loneliness and Social Connections | Mixed data | [Kaggle](https://www.kaggle.com/arashnic/loneliness-and-social-connections?select=percent-of-men-and-women-using-social-media-platforms-in-the-us.csv) |
+| CausaLM Datasets | Mixed data | [Kaggle](https://www.kaggle.com/amirfeder/causalm?select=topics_dev.csv) |
+|Historical Gold Stock-GLD (EFT) | Time-series data | [Kaggle](https://www.kaggle.com/kalpanadontha/historicalgoldstockrandgoldresources) |
+|Medical Information Extraction |  Time-series data | [Kaggle](https://www.kaggle.com/mathurinache/medical-information-extraction)|
+|Influenza and Env Factors | Time-series data | [Kaggle](https://www.kaggle.com/ffejgnaw/weekly-influenza-and-env-factors-2016-2018)|
+|National Footprint Accounts 2018 | Longitudinal data | [Kaggle](https://www.kaggle.com/footprintnetwork/national-footprint-accounts-2018)|
+|School Shootings US 1990-present | Time-series data | [Kaggle](https://www.kaggle.com/ecodan/school-shootings-us-1990present?select=cps_01_formatted.csv)|
+|Deaths related to the Northern Ireland conflict | Mixed data | [Kaggle](https://www.kaggle.com/cclayford/deaths-related-to-the-northern-ireland-conflict) |
+|Proper-names Categories | Discrete data | [Kaggle](https://www.kaggle.com/vered1986/propernames-categories?select=dataset_full.csv)|
+
 
 *<sub>
 <a name="myfootnote3.1">1</a>: "Citation of both papers is required:<br>
